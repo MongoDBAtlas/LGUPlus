@@ -5,6 +5,25 @@
 
 ### Pre Work
 
+#### Login to Atlas
+주어진 계정으로 Atlas에 로그인을 합니다.
+최초 MFA 설정 화면이 나오며 Remind me later를 클릭 합니다.
+
+<img src="/00.pre-work/images/images10.png" width="90%" height="90%">  
+
+로그인 완료 후 계정 정보를 클릭 합니다. 계정 정보에 Invitations가 1개 도착 된 것을 볼 수 있으며 이를 클릭 하여 줍니다.    
+
+<img src="/00.pre-work/images/images11.png" width="90%" height="90%">  
+
+Invitation 을 Accept 하여 줍니다.     
+
+<img src="/00.pre-work/images/images12.png" width="90%" height="90%">  
+
+이후 All cluster를 클릭 하면 demo 클러스터가 배포 된 것을 확인 할 수 있습니다.   
+
+<img src="/00.pre-work/images/images13.png" width="90%" height="90%">  
+
+
 #### Database Account 생성
 Atlas 데이터베이스 클러스터를 접근하기 위한 계정 생성으로 Security 메뉴에 Database Access를 클릭 하여 계정을 생성 할 수 있습니다.    
 Hands-on에서는 Id/password를 이용하는 방식의 데이터베이스 계정을 생성 합니다.   
